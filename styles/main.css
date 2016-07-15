@@ -1,0 +1,11 @@
+header{
+  text-align: center;
+  font-size: 10px
+}
+body{
+  background-color: lightgrey;
+}
+img{
+  border-radius: 10%;
+  align-items:center;
+}
