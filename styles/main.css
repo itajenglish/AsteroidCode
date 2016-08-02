@@ -1,11 +1,9 @@
-header{
-  text-align: center;
-  font-size: 10px
-}
 body{
-  background-color: lightgrey;
+  background-color: white;
 }
-img{
-  border-radius: 10%;
-  align-items:center;
+
+.CenterText{
+
+text-align:center;
 }
+;
